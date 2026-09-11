@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  app-builder:
+    build: .
+    container_name: sih-battery-builder
+    volumes:
+      # Mount the local code into the container so it can build it
+      - .:/app
+      # Cache gradle downloads to make subsequent builds incredibly fast
+      - gradle_cache:/root/.gradle
+    command: ./gradlew assembleDebug
+
+volumes:
+  gradle_cache:

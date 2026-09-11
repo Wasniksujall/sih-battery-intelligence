@@ -1,0 +1,53 @@
+com.sih.batteryui.app-jetified-ui-tooling-data-release-0 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\081f93c55b910045be5b561745d9b32a\transformed\jetified-ui-tooling-data-release\res
+com.sih.batteryui.app-jetified-annotation-experimental-1.3.0-1 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\0d69516a5963ede7cb92d9d0a7fe2a30\transformed\jetified-annotation-experimental-1.3.0\res
+com.sih.batteryui.app-jetified-activity-1.8.2-2 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\0e52d61c19895965a2c857985bdb6522\transformed\jetified-activity-1.8.2\res
+com.sih.batteryui.app-navigation-common-ktx-2.7.6-3 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\13de5e4cde78afe70feca436cb964ee2\transformed\navigation-common-ktx-2.7.6\res
+com.sih.batteryui.app-jetified-material-icons-extended-release-4 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\19cf3ec73c2bec3e61ed40a80796adc0\transformed\jetified-material-icons-extended-release\res
+com.sih.batteryui.app-jetified-material-icons-core-release-5 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\1b8222d3f7956a0b2a1b0f1958366c6f\transformed\jetified-material-icons-core-release\res
+com.sih.batteryui.app-jetified-ui-geometry-release-6 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\2a6ee1431ebcb3d4ed9e09b660977f3a\transformed\jetified-ui-geometry-release\res
+com.sih.batteryui.app-jetified-ui-unit-release-7 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\308d92dec24e9c1abeb0e7cc12632a66\transformed\jetified-ui-unit-release\res
+com.sih.batteryui.app-jetified-startup-runtime-1.1.1-8 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\3be3750414a2faf3498b2e0366526340\transformed\jetified-startup-runtime-1.1.1\res
+com.sih.batteryui.app-navigation-common-2.7.6-9 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\3d3ebff486ccb14400b6c6f95f709330\transformed\navigation-common-2.7.6\res
+com.sih.batteryui.app-jetified-ui-util-release-10 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\4c3ba55955421fec56e9200b2e7dddb9\transformed\jetified-ui-util-release\res
+com.sih.batteryui.app-jetified-runtime-saveable-release-11 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\503378202d20680f664a9cd664f90c6e\transformed\jetified-runtime-saveable-release\res
+com.sih.batteryui.app-jetified-emoji2-1.4.0-12 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\5aa60e6bbe0fa264352fff3ecc980158\transformed\jetified-emoji2-1.4.0\res
+com.sih.batteryui.app-jetified-material3-1.1.2-13 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\5ed836f19ef254ecbaf710d91362c8b8\transformed\jetified-material3-1.1.2\res
+com.sih.batteryui.app-core-runtime-2.2.0-14 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\6518b49677ed4c43a902ab747bf4b141\transformed\core-runtime-2.2.0\res
+com.sih.batteryui.app-jetified-animation-core-release-15 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\658ea3832930e0bfb415e97401d40797\transformed\jetified-animation-core-release\res
+com.sih.batteryui.app-jetified-foundation-release-16 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\7422feef4a98441d69c927b110d7ba10\transformed\jetified-foundation-release\res
+com.sih.batteryui.app-jetified-savedstate-ktx-1.2.1-17 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\7709f47e356cd441ef90faa1e0beb83b\transformed\jetified-savedstate-ktx-1.2.1\res
+com.sih.batteryui.app-jetified-savedstate-1.2.1-18 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\7a1be43f79c16f13b5cbec02aa35bdd9\transformed\jetified-savedstate-1.2.1\res
+com.sih.batteryui.app-lifecycle-runtime-2.7.0-19 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\7a8b10fb111c8463fad0f277938dd005\transformed\lifecycle-runtime-2.7.0\res
+com.sih.batteryui.app-jetified-ui-tooling-release-20 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\7e53c51e2fa244f44bdf3347c6b41a4e\transformed\jetified-ui-tooling-release\res
+com.sih.batteryui.app-jetified-material-ripple-release-21 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\82657df36c6a9a2e2428854f53230eb5\transformed\jetified-material-ripple-release\res
+com.sih.batteryui.app-jetified-ui-tooling-preview-release-22 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\8323e3693d670f3ff5fd6dc05d160859\transformed\jetified-ui-tooling-preview-release\res
+com.sih.batteryui.app-jetified-ui-graphics-release-23 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\87a0db8ddc349cb46fc99386d918a0fa\transformed\jetified-ui-graphics-release\res
+com.sih.batteryui.app-jetified-navigation-compose-2.7.6-24 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\8b19f05460a4e2e8777be16ed0e98896\transformed\jetified-navigation-compose-2.7.6\res
+com.sih.batteryui.app-jetified-lifecycle-runtime-ktx-2.7.0-25 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\8ceb94bddad30abf598c97cffc335e3f\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.sih.batteryui.app-jetified-lifecycle-process-2.7.0-26 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\8f251ee04e42a432e6dd38d4d49ff8a7\transformed\jetified-lifecycle-process-2.7.0\res
+com.sih.batteryui.app-core-1.12.0-27 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\93961ba83ef1b484503e307d790fa18b\transformed\core-1.12.0\res
+com.sih.batteryui.app-jetified-material-release-28 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\97ef1b2b05d16f3ac524b685ad94e366\transformed\jetified-material-release\res
+com.sih.batteryui.app-jetified-ui-test-manifest-1.5.4-29 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\9d959cbfbe73514c10e2b2ed8a941d83\transformed\jetified-ui-test-manifest-1.5.4\res
+com.sih.batteryui.app-jetified-lifecycle-viewmodel-compose-2.7.0-30 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\a408dd9751c8212042f14b193496697f\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\res
+com.sih.batteryui.app-lifecycle-livedata-core-2.7.0-31 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\b18e2ca655a85de0e27a561a14b409b1\transformed\lifecycle-livedata-core-2.7.0\res
+com.sih.batteryui.app-jetified-lifecycle-viewmodel-ktx-2.7.0-32 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\bc0aefe76b9bf74f2697bbcead095aff\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.sih.batteryui.app-lifecycle-viewmodel-2.7.0-33 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\cfff35f28cfa79f0486bbe4e7aa2386c\transformed\lifecycle-viewmodel-2.7.0\res
+com.sih.batteryui.app-navigation-runtime-ktx-2.7.6-34 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\dae73fd320cf6f4557d0bdd0f3ce7d64\transformed\navigation-runtime-ktx-2.7.6\res
+com.sih.batteryui.app-navigation-runtime-2.7.6-35 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\dbc5e7f384244154cdd74b8afae15073\transformed\navigation-runtime-2.7.6\res
+com.sih.batteryui.app-jetified-ui-text-release-36 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\de2ccdabd9d996b1fbd874e7dd101245\transformed\jetified-ui-text-release\res
+com.sih.batteryui.app-jetified-animation-release-37 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\e139873b9d16b206539d033ade7d351b\transformed\jetified-animation-release\res
+com.sih.batteryui.app-jetified-runtime-release-38 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\e83c94105643cfcfddb5963473e82f8b\transformed\jetified-runtime-release\res
+com.sih.batteryui.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-39 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\e99014eb130145f7e932c8bbd2919edd\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.sih.batteryui.app-jetified-profileinstaller-1.3.0-40 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\eedb0bade7eb5f6938a0e1ee76ab0359\transformed\jetified-profileinstaller-1.3.0\res
+com.sih.batteryui.app-jetified-activity-ktx-1.8.2-41 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\f0c7515152ee1768a3271dbee25f7141\transformed\jetified-activity-ktx-1.8.2\res
+com.sih.batteryui.app-jetified-foundation-layout-release-42 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\f4bb83c4a47e7498b6a15e04d55c813f\transformed\jetified-foundation-layout-release\res
+com.sih.batteryui.app-jetified-ui-release-43 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\f574d2eb7e43883ce760b0643595bd5d\transformed\jetified-ui-release\res
+com.sih.batteryui.app-jetified-customview-poolingcontainer-1.0.0-44 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\f5ad4b6bfc1df49b6318e0e160fee164\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.sih.batteryui.app-jetified-core-ktx-1.12.0-45 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\f86ac6dce4968aaa7aac67bc87bb55f3\transformed\jetified-core-ktx-1.12.0\res
+com.sih.batteryui.app-jetified-activity-compose-1.8.2-46 C:\Users\sujal wasnik\.gradle\caches\8.8\transforms\fac4954e1be46ed56c881d66322be373\transformed\jetified-activity-compose-1.8.2\res
+com.sih.batteryui.app-resValues-47 E:\crpto\BatteryIntelligenceApp\app\build\generated\res\resValues\debug
+com.sih.batteryui.app-packageDebugResources-48 E:\crpto\BatteryIntelligenceApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.sih.batteryui.app-packageDebugResources-49 E:\crpto\BatteryIntelligenceApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.sih.batteryui.app-merged_res-50 E:\crpto\BatteryIntelligenceApp\app\build\intermediates\merged_res\debug
+com.sih.batteryui.app-debug-51 E:\crpto\BatteryIntelligenceApp\app\src\debug\res
+com.sih.batteryui.app-main-52 E:\crpto\BatteryIntelligenceApp\app\src\main\res
